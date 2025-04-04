@@ -1,3 +1,5 @@
 # csc394Spring2025
 
-# Resteraunt review app for chicago resteraunts
+# Sample Repo for CSC 394 - Software Projects 
+
+# Hey Professor and class 
