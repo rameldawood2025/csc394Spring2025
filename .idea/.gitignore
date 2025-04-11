@@ -1,5 +1,25 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Environment-dependent path to Maven home directory
-/mavenHomeManager.xml
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+*.env
+
+# VS Code
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Project settings
+*.iml
+*.xml
+
